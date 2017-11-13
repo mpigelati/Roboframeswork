@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generated="20171113 15:19:25.442" generator="Robot 3.0.2 (Python 3.5.2 on linux)">
+<suite source="/home/mohansai/python/Mohansai_samples/Roboframeswork/sample1/sample.robot" id="s1" name="Sample">
+<test id="s1-t1" name="LibraryTest">
+<kw library="sample1" name="Hello">
+<msg level="INFO" timestamp="20171113 15:19:25.497">The given name</msg>
+<status status="PASS" starttime="20171113 15:19:25.497" endtime="20171113 15:19:25.497"></status>
+</kw>
+<status status="PASS" starttime="20171113 15:19:25.496" critical="yes" endtime="20171113 15:19:25.497"></status>
+</test>
+<status status="PASS" starttime="20171113 15:19:25.442" endtime="20171113 15:19:25.498"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0">Critical Tests</stat>
+<stat pass="1" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat id="s1" pass="1" fail="0" name="Sample">Sample</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

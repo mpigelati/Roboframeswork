@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generated="20171113 14:55:14.207" generator="Robot 3.0.2 (Python 3.5.2 on linux)">
+<suite id="s1" name="Myfile" source="/home/mohansai/python/Mohansai_samples/Roboframeswork/myfile.robot">
+<test id="s1-t1" name="google test">
+<status starttime="20171113 14:55:14.498" critical="yes" endtime="20171113 14:55:14.498" status="FAIL">Test case contains no keywords.</status>
+</test>
+<test id="s1-t2" name="Open Broweser https://www.google.com">
+<status starttime="20171113 14:55:14.498" critical="yes" endtime="20171113 14:55:14.499" status="FAIL">Test case contains no keywords.</status>
+</test>
+<test id="s1-t3" name="Maximize Browser Window">
+<status starttime="20171113 14:55:14.499" critical="yes" endtime="20171113 14:55:14.499" status="FAIL">Test case contains no keywords.</status>
+</test>
+<test id="s1-t4" name="${SEARCH} = time_date">
+<status starttime="20171113 14:55:14.499" critical="yes" endtime="20171113 14:55:14.499" status="FAIL">Test case contains no keywords.</status>
+</test>
+<test id="s1-t5" name="Imput text id=lts-ib ${SEARCH}">
+<status starttime="20171113 14:55:14.500" critical="yes" endtime="20171113 14:55:14.500" status="FAIL">Test case contains no keywords.</status>
+</test>
+<test id="s1-t6" name="sleep 5">
+<status starttime="20171113 14:55:14.500" critical="yes" endtime="20171113 14:55:14.500" status="FAIL">Test case contains no keywords.</status>
+</test>
+<test id="s1-t7" name="Close Browser">
+<status starttime="20171113 14:55:14.501" critical="yes" endtime="20171113 14:55:14.501" status="FAIL">Test case contains no keywords.</status>
+</test>
+<status starttime="20171113 14:55:14.214" endtime="20171113 14:55:14.502" status="FAIL"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="7">Critical Tests</stat>
+<stat pass="0" fail="7">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" id="s1" name="Myfile" fail="7">Myfile</stat>
+</suite>
+</statistics>
+<errors>
+<msg timestamp="20171113 14:55:14.200" level="ERROR">Error in file '/home/mohansai/python/Mohansai_samples/Roboframeswork/myfile.robot': Non-existing setting 'Library Selenium2Library'.</msg>
+<msg timestamp="20171113 14:55:14.200" level="ERROR">Error in file '/home/mohansai/python/Mohansai_samples/Roboframeswork/myfile.robot': Non-existing setting 'Library sample.py.Customlib'.</msg>
+</errors>
+</robot>
